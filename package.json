@@ -1,0 +1,16 @@
+{
+  "name": "cleaningjob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "export TASKS=\"Kids room, kitchen dish wash, main bathroom, kotta oyijon bathroom, kotta oyijon room, kitchen cleanup, balcony, mommys room, living room\" && node index.test.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.639.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

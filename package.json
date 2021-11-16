@@ -8,7 +8,7 @@
     "start": "export TASKS=\"Kids room, kitchen dish wash, main bathroom, kotta oyijon bathroom, kotta oyijon room, kitchen cleanup, balcony, mommys room, living room\" && node index.test.js"
   },
   "dependencies": {
-    "aws-sdk": "^2.639.0"
+    "aws-sdk": "^2.814.0"
   },
   "keywords": [],
   "author": "",
